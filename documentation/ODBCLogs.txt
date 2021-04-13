@@ -1,0 +1,613 @@
+>>>--- Log Thread Ready ---<<<
+15/06/2005 12:31:35 PM Facto : 0001 : >>-- Factory Started --<<
+15/06/2005 12:31:54 PM Facto : 0001 : >>-- Woke up --<<
+15/06/2005 12:31:55 PM Facto : 0001 : >>-- Creating initial workcrew --<<
+15/06/2005 12:31:56 PM Facto : 0001 : >>-- Creating complete workcrew compliment --<<
+15/06/2005 12:31:56 PM Facto : 0001 : >-- Starting Workcrew --<
+15/06/2005 12:31:56 PM Calib : 0001 : ---> Attempting connection to Calibration Data
+15/06/2005 12:31:56 PM Calib : 0001 : ---> Connection Succeeded - Listing Tables
+15/06/2005 12:31:56 PM Calib : 0001 : reports
+15/06/2005 12:31:56 PM Calib : 0001 : trace
+15/06/2005 12:31:56 PM Calib : 0001 : reports
+15/06/2005 12:31:56 PM Calib : 0001 : trace
+15/06/2005 12:31:56 PM Calib : 0001 : reports
+15/06/2005 12:31:56 PM Calib : 0001 : trace
+15/06/2005 12:31:56 PM Calib : 0001 : reports
+15/06/2005 12:31:56 PM Calib : 0001 : trace
+15/06/2005 12:31:56 PM Calib : 0001 : reports
+15/06/2005 12:31:56 PM Calib : 0001 : trace
+15/06/2005 12:31:56 PM Calib : 0001 : reports
+15/06/2005 12:31:56 PM Calib : 0001 : trace
+15/06/2005 12:31:56 PM Calib : 0001 : reports
+15/06/2005 12:31:56 PM Calib : 0001 : trace
+15/06/2005 12:31:56 PM Calib : 0001 : reports
+15/06/2005 12:31:56 PM Calib : 0001 : trace
+15/06/2005 12:31:56 PM Calib : 0001 : reports
+15/06/2005 12:31:56 PM Calib : 0001 : trace
+15/06/2005 12:31:56 PM Calib : 0001 : reports
+15/06/2005 12:31:56 PM Calib : 0001 : trace
+15/06/2005 12:31:56 PM Calib : 0001 : reports
+15/06/2005 12:31:56 PM Calib : 0001 : trace
+15/06/2005 12:31:56 PM Calib : 0001 : Asset_Correlation
+15/06/2005 12:31:56 PM Calib : 0001 : assethistory
+15/06/2005 12:31:56 PM Calib : 0001 : calcombine
+15/06/2005 12:31:56 PM Calib : 0001 : Calibration
+15/06/2005 12:31:56 PM Calib : 0001 : CalResults
+15/06/2005 12:31:56 PM Calib : 0001 : customers
+15/06/2005 12:31:56 PM Calib : 0001 : customiz
+15/06/2005 12:31:56 PM Calib : 0001 : dbconfig
+15/06/2005 12:31:57 PM Calib : 0001 : DeskTop
+15/06/2005 12:31:57 PM Calib : 0001 : DeskTopLast
+15/06/2005 12:31:57 PM Calib : 0001 : DeskTopUser
+15/06/2005 12:31:57 PM Calib : 0001 : holidays
+15/06/2005 12:31:57 PM Calib : 0001 : inuse
+15/06/2005 12:31:57 PM Calib : 0001 : Inventory
+15/06/2005 12:31:57 PM Calib : 0001 : license
+15/06/2005 12:31:57 PM Calib : 0001 : Location
+15/06/2005 12:31:57 PM Calib : 0001 : ME2_Customiz
+15/06/2005 12:31:57 PM Calib : 0001 : mtlog
+15/06/2005 12:31:57 PM Calib : 0001 : nonworkdays
+15/06/2005 12:31:57 PM Calib : 0001 : Repair
+15/06/2005 12:31:57 PM Calib : 0001 : reports
+15/06/2005 12:31:57 PM Calib : 0001 : results
+15/06/2005 12:31:57 PM Calib : 0001 : results_raw
+15/06/2005 12:31:57 PM Calib : 0001 : segregate
+15/06/2005 12:31:57 PM Calib : 0001 : Standards
+15/06/2005 12:31:57 PM Calib : 0001 : user1
+15/06/2005 12:31:57 PM Calib : 0001 : user2
+15/06/2005 12:31:57 PM Calib : 0001 : user3
+15/06/2005 12:31:57 PM Calib : 0001 : userlist
+15/06/2005 12:31:57 PM Calib : 0001 : valfield
+15/06/2005 12:31:57 PM Calib : 0001 : vallink
+15/06/2005 12:31:57 PM Calib : 0001 : vallinkdata
+15/06/2005 12:31:57 PM Calib : 0001 : WorkOrderDetails
+15/06/2005 12:31:57 PM Calib : 0001 : WorkOrders
+15/06/2005 12:31:57 PM Calib : 0001 : reports
+15/06/2005 12:31:57 PM Calib : 0001 : trace
+15/06/2005 12:31:57 PM Calib : 0001 : reports
+15/06/2005 12:31:57 PM Calib : 0001 : trace
+15/06/2005 12:31:57 PM Calib : 0001 : reports
+15/06/2005 12:31:57 PM Calib : 0001 : trace
+15/06/2005 12:31:57 PM Calib : 0001 : ---> SQL Result = license 33
+15/06/2005 12:31:57 PM Calib : 0001 : ---> SQL Result = license 33
+15/06/2005 12:31:57 PM Calib : 0001 : ---> SQL Result = user2 0
+15/06/2005 12:31:57 PM Calib : 0001 : ---> SQL Result = user2 0
+15/06/2005 12:31:57 PM Calib : 0001 : ---> SQL Result = reports 26
+15/06/2005 12:31:57 PM Calib : 0001 : ---> SQL Result = reports 26
+15/06/2005 12:31:57 PM Calib : 0001 : ---> SQL Result = reports 26
+15/06/2005 12:31:57 PM Calib : 0001 : ---> SQL Result = reports 26
+15/06/2005 12:31:57 PM Calib : 0001 : ---> SQL Result = reports 26
+15/06/2005 12:31:57 PM Calib : 0001 : ---> SQL Result = reports 26
+15/06/2005 12:31:57 PM Calib : 0001 : ---> SQL Result = DeskTopUser 26
+15/06/2005 12:31:57 PM Calib : 0001 : ---> SQL Result = DeskTopUser 26
+15/06/2005 12:31:57 PM Calib : 0001 : ---> SQL Result = results_raw 0
+15/06/2005 12:31:57 PM Calib : 0001 : ---> SQL Result = results_raw 0
+15/06/2005 12:31:57 PM Calib : 0001 : ---> SQL Result = reports 26
+15/06/2005 12:31:57 PM Calib : 0001 : ---> SQL Result = reports 26
+15/06/2005 12:31:57 PM Calib : 0001 : ---> SQL Result = WorkOrders 0
+15/06/2005 12:31:57 PM Calib : 0001 : ---> SQL Result = WorkOrders 0
+15/06/2005 12:31:57 PM Calib : 0001 : ---> SQL Result = reports 26
+15/06/2005 12:31:57 PM Calib : 0001 : ---> SQL Result = reports 26
+15/06/2005 12:31:57 PM Calib : 0001 : ---> SQL Result = customers 2
+15/06/2005 12:31:57 PM Calib : 0001 : ---> SQL Result = customers 2
+15/06/2005 12:31:57 PM Calib : 0001 : ---> SQL Result = Calibration 630
+15/06/2005 12:31:57 PM Calib : 0001 : ---> SQL Result = Calibration 630
+15/06/2005 12:31:57 PM Calib : 0001 : ---> SQL Result = userlist 14
+15/06/2005 12:31:57 PM Calib : 0001 : ---> SQL Result = userlist 14
+15/06/2005 12:31:57 PM Calib : 0001 : ---> SQL Result = customiz 569
+15/06/2005 12:31:57 PM Calib : 0001 : ---> SQL Result = customiz 569
+15/06/2005 12:31:57 PM Calib : 0001 : ---> SQL Result = reports 26
+15/06/2005 12:31:57 PM Calib : 0001 : ---> SQL Result = reports 26
+15/06/2005 12:31:57 PM Calib : 0001 : ---> SQL Result = Calibration 630
+15/06/2005 12:31:58 PM Calib : 0001 : ---> SQL Result = Calibration 630
+15/06/2005 12:31:58 PM Calib : 0001 : ---> SQL Result = Calibration 630
+15/06/2005 12:31:58 PM Calib : 0001 : ---> SQL Result = Calibration 630
+15/06/2005 12:31:58 PM Calib : 0001 : ---> SQL Result = trace SQL Error
+15/06/2005 12:31:58 PM Calib : 0001 : ---> SQL Result = ME2_Customiz 1253
+15/06/2005 12:31:58 PM Calib : 0001 : ---> SQL Result = ME2_Customiz 1253
+15/06/2005 12:31:58 PM Calib : 0001 : ---> SQL Result = trace SQL Error
+15/06/2005 12:31:58 PM Calib : 0001 : ---> SQL Result = Location 31
+15/06/2005 12:31:58 PM Calib : 0001 : ---> SQL Result = Location 31
+15/06/2005 12:31:58 PM Calib : 0001 : ---> SQL Result = trace SQL Error
+15/06/2005 12:31:58 PM Calib : 0001 : ---> SQL Result = reports 26
+15/06/2005 12:31:58 PM Calib : 0001 : ---> SQL Result = reports 26
+15/06/2005 12:31:58 PM Calib : 0001 : ---> SQL Result = reports 26
+15/06/2005 12:31:58 PM Calib : 0001 : ---> SQL Result = reports 26
+15/06/2005 12:31:58 PM Calib : 0001 : ---> SQL Result = reports 26
+15/06/2005 12:31:58 PM Calib : 0001 : ---> SQL Result = reports 26
+15/06/2005 12:31:58 PM Calib : 0001 : ---> SQL Result = results_raw 0
+15/06/2005 12:31:58 PM Calib : 0001 : ---> SQL Result = results_raw 0
+15/06/2005 12:31:58 PM Calib : 0001 : ---> SQL Result = user2 0
+15/06/2005 12:31:58 PM Calib : 0001 : ---> SQL Result = user2 0
+15/06/2005 12:31:58 PM Calib : 0001 : ---> SQL Result = trace SQL Error
+15/06/2005 12:31:58 PM Calib : 0001 : ---> SQL Result = holidays 4
+15/06/2005 12:31:58 PM Calib : 0001 : ---> SQL Result = holidays 4
+15/06/2005 12:31:58 PM Calib : 0001 : ---> SQL Result = reports 26
+15/06/2005 12:31:58 PM Calib : 0001 : ---> SQL Result = reports 26
+15/06/2005 12:31:58 PM Calib : 0001 : ---> SQL Result = reports 26
+15/06/2005 12:31:58 PM Calib : 0001 : ---> SQL Result = reports 26
+15/06/2005 12:31:58 PM Calib : 0001 : ---> SQL Result = trace SQL Error
+15/06/2005 12:31:58 PM Calib : 0001 : ---> SQL Result = assethistory 0
+15/06/2005 12:31:58 PM Calib : 0001 : ---> SQL Result = assethistory 0
+15/06/2005 12:31:58 PM Calib : 0001 : ---> SQL Result = trace SQL Error
+15/06/2005 12:31:58 PM Calib : 0001 : ---> SQL Result = trace SQL Error
+15/06/2005 12:31:58 PM Calib : 0001 : ---> SQL Result = trace SQL Error
+15/06/2005 12:31:58 PM Calib : 0001 : ---> SQL Result = trace SQL Error
+15/06/2005 12:31:58 PM Calib : 0001 : ---> SQL Result = Standards 1061
+15/06/2005 12:31:58 PM Calib : 0001 : ---> SQL Result = Standards 1061
+15/06/2005 12:31:58 PM Calib : 0001 : ---> SQL Result = vallinkdata 0
+15/06/2005 12:31:58 PM Calib : 0001 : ---> SQL Result = vallinkdata 0
+15/06/2005 12:31:58 PM Calib : 0001 : ---> SQL Result = trace SQL Error
+15/06/2005 12:31:58 PM Calib : 0001 : ---> SQL Result = user2 0
+15/06/2005 12:31:58 PM Calib : 0001 : ---> SQL Result = user2 0
+15/06/2005 12:31:58 PM Calib : 0001 : ---> SQL Result = reports 26
+15/06/2005 12:31:58 PM Calib : 0001 : ---> SQL Result = reports 26
+15/06/2005 12:31:58 PM Calib : 0001 : ---> SQL Result = DeskTop 1
+15/06/2005 12:31:58 PM Calib : 0001 : ---> SQL Result = DeskTop 1
+15/06/2005 12:31:58 PM Calib : 0001 : ---> SQL Result = inuse 7
+15/06/2005 12:31:58 PM Calib : 0001 : ---> SQL Result = inuse 7
+15/06/2005 12:31:58 PM Calib : 0001 : ---> SQL Result = trace SQL Error
+15/06/2005 12:31:58 PM Calib : 0001 : ---> SQL Result = reports 26
+15/06/2005 12:31:58 PM Calib : 0001 : ---> SQL Result = reports 26
+15/06/2005 12:31:58 PM Calib : 0001 : ---> SQL Result = assethistory 0
+15/06/2005 12:31:58 PM Calib : 0001 : ---> SQL Result = assethistory 0
+15/06/2005 12:31:58 PM Calib : 0001 : ---> SQL Result = dbconfig 1
+15/06/2005 12:31:58 PM Calib : 0001 : ---> SQL Result = dbconfig 1
+15/06/2005 12:31:58 PM Calib : 0001 : ---> SQL Result = reports 26
+15/06/2005 12:31:58 PM Calib : 0001 : ---> SQL Result = reports 26
+15/06/2005 12:31:58 PM Calib : 0001 : ---> SQL Result = vallink 0
+15/06/2005 12:31:58 PM Calib : 0001 : ---> SQL Result = vallink 0
+15/06/2005 12:31:58 PM Calib : 0001 : ---> SQL Result = dbconfig 1
+15/06/2005 12:31:58 PM Calib : 0001 : ---> SQL Result = dbconfig 1
+15/06/2005 12:31:58 PM Calib : 0001 : ---> SQL Result = trace SQL Error
+15/06/2005 12:31:58 PM Calib : 0001 : ---> SQL Result = reports 26
+15/06/2005 12:31:58 PM Calib : 0001 : ---> SQL Result = reports 26
+15/06/2005 12:31:58 PM Calib : 0001 : ---> SQL Result = customiz 569
+15/06/2005 12:31:59 PM Calib : 0001 : ---> SQL Result = customiz 569
+15/06/2005 12:31:59 PM Calib : 0001 : ---> SQL Result = reports 26
+15/06/2005 12:31:59 PM Calib : 0001 : ---> SQL Result = reports 26
+15/06/2005 12:31:59 PM Calib : 0001 : ---> SQL Result = holidays 4
+15/06/2005 12:31:59 PM Calib : 0001 : ---> SQL Result = holidays 4
+15/06/2005 12:31:59 PM Calib : 0001 : ---> SQL Result = mtlog 0
+15/06/2005 12:31:59 PM Calib : 0001 : ---> SQL Result = mtlog 0
+15/06/2005 12:31:59 PM Calib : 0001 : ---> SQL Result = trace SQL Error
+15/06/2005 12:31:59 PM Calib : 0001 : ---> SQL Result = trace SQL Error
+15/06/2005 12:31:59 PM Calib : 0001 : ---> SQL Result = reports 26
+15/06/2005 12:31:59 PM Calib : 0001 : ---> SQL Result = reports 26
+15/06/2005 12:31:59 PM Calib : 0001 : ---> SQL Result = customiz 569
+15/06/2005 12:31:59 PM Calib : 0001 : ---> SQL Result = customiz 569
+15/06/2005 12:31:59 PM Calib : 0001 : ---> SQL Result = results_raw 0
+15/06/2005 12:31:59 PM Calib : 0001 : ---> SQL Result = results_raw 0
+15/06/2005 12:31:59 PM Calib : 0001 : ---> SQL Result = results 63233
+15/06/2005 12:31:59 PM Calib : 0001 : ---> SQL Result = results 63233
+15/06/2005 12:31:59 PM Calib : 0001 : ---> SQL Result = reports 26
+15/06/2005 12:31:59 PM Calib : 0001 : ---> SQL Result = reports 26
+15/06/2005 12:31:59 PM Calib : 0001 : ---> SQL Result = WorkOrderDetails 0
+15/06/2005 12:31:59 PM Calib : 0001 : ---> SQL Result = WorkOrderDetails 0
+15/06/2005 12:31:59 PM Calib : 0001 : ---> SQL Result = WorkOrders 0
+15/06/2005 12:31:59 PM Calib : 0001 : ---> SQL Result = WorkOrders 0
+15/06/2005 12:31:59 PM Calib : 0001 : ---> SQL Result = reports 26
+15/06/2005 12:31:59 PM Calib : 0001 : ---> SQL Result = reports 26
+15/06/2005 12:31:59 PM Calib : 0001 : ---> SQL Result = Location 31
+15/06/2005 12:31:59 PM Calib : 0001 : ---> SQL Result = Location 31
+15/06/2005 12:31:59 PM Calib : 0001 : ---> SQL Result = reports 26
+15/06/2005 12:31:59 PM Calib : 0001 : ---> SQL Result = reports 26
+15/06/2005 12:31:59 PM Calib : 0001 : ---> SQL Result = license 33
+15/06/2005 12:31:59 PM Calib : 0001 : ---> SQL Result = license 33
+15/06/2005 12:31:59 PM Calib : 0001 : ---> SQL Result = Standards 1061
+15/06/2005 12:31:59 PM Calib : 0001 : ---> SQL Result = Standards 1061
+15/06/2005 12:31:59 PM Calib : 0001 : ---> SQL Result = user1 0
+15/06/2005 12:31:59 PM Calib : 0001 : ---> SQL Result = user1 0
+15/06/2005 12:31:59 PM Calib : 0001 : ---> SQL Result = reports 26
+15/06/2005 12:31:59 PM Calib : 0001 : ---> SQL Result = reports 26
+15/06/2005 12:31:59 PM Calib : 0001 : ---> SQL Result = Repair 2
+15/06/2005 12:31:59 PM Calib : 0001 : ---> SQL Result = Repair 2
+15/06/2005 12:31:59 PM Calib : 0001 : ---> SQL Result = results_raw 0
+15/06/2005 12:31:59 PM Calib : 0001 : ---> SQL Result = results_raw 0
+15/06/2005 12:31:59 PM Calib : 0001 : ---> SQL Result = reports 26
+15/06/2005 12:31:59 PM Calib : 0001 : ---> SQL Result = reports 26
+15/06/2005 12:31:59 PM Calib : 0001 : ---> SQL Result = DeskTopUser 26
+15/06/2005 12:31:59 PM Calib : 0001 : ---> SQL Result = DeskTopUser 26
+15/06/2005 12:31:59 PM Calib : 0001 : ---> SQL Result = reports 26
+15/06/2005 12:31:59 PM Calib : 0001 : ---> SQL Result = reports 26
+15/06/2005 12:31:59 PM Calib : 0001 : ---> SQL Result = calcombine 0
+15/06/2005 12:31:59 PM Calib : 0001 : ---> SQL Result = calcombine 0
+15/06/2005 12:31:59 PM Calib : 0001 : ---> SQL Result = assethistory 0
+15/06/2005 12:31:59 PM Calib : 0001 : ---> SQL Result = assethistory 0
+15/06/2005 12:31:59 PM Calib : 0001 : ---> SQL Result = trace SQL Error
+15/06/2005 12:31:59 PM Calib : 0001 : ---> SQL Result = reports 26
+15/06/2005 12:31:59 PM Calib : 0001 : ---> SQL Result = reports 26
+15/06/2005 12:31:59 PM Calib : 0001 : ---> SQL Result = assethistory 0
+15/06/2005 12:31:59 PM Calib : 0001 : ---> SQL Result = assethistory 0
+15/06/2005 12:31:59 PM Calib : 0001 : ---> SQL Result = WorkOrders 0
+15/06/2005 12:32:00 PM Calib : 0001 : ---> SQL Result = WorkOrders 0
+15/06/2005 12:32:00 PM Calib : 0001 : ---> SQL Result = userlist 14
+15/06/2005 12:32:00 PM Calib : 0001 : ---> SQL Result = userlist 14
+15/06/2005 12:32:00 PM Calib : 0001 : ---> SQL Result = vallinkdata 0
+15/06/2005 12:32:00 PM Calib : 0001 : ---> SQL Result = vallinkdata 0
+15/06/2005 12:32:00 PM Calib : 0001 : ---> SQL Result = mtlog 0
+15/06/2005 12:32:00 PM Calib : 0001 : ---> SQL Result = mtlog 0
+15/06/2005 12:32:00 PM Calib : 0001 : ---> SQL Result = inuse 7
+15/06/2005 12:32:00 PM Calib : 0001 : ---> SQL Result = inuse 7
+15/06/2005 12:32:00 PM Calib : 0001 : ---> SQL Result = reports 26
+15/06/2005 12:32:00 PM Calib : 0001 : ---> SQL Result = reports 26
+15/06/2005 12:32:00 PM Calib : 0001 : ---> SQL Result = results_raw 0
+15/06/2005 12:32:00 PM Calib : 0001 : ---> SQL Result = results_raw 0
+15/06/2005 12:32:00 PM Calib : 0001 : ---> SQL Result = holidays 4
+15/06/2005 12:32:00 PM Calib : 0001 : ---> SQL Result = holidays 4
+15/06/2005 12:32:00 PM Calib : 0001 : ---> SQL Result = customiz 569
+15/06/2005 12:32:00 PM Calib : 0001 : ---> SQL Result = customiz 569
+15/06/2005 12:32:00 PM Calib : 0001 : ---> SQL Result = trace SQL Error
+15/06/2005 12:32:00 PM Calib : 0001 : ---> SQL Result = trace SQL Error
+15/06/2005 12:32:00 PM Calib : 0001 : ---> SQL Result = WorkOrders 0
+15/06/2005 12:32:00 PM Calib : 0001 : ---> SQL Result = WorkOrders 0
+15/06/2005 12:32:00 PM Calib : 0001 : ---> SQL Result = user1 0
+15/06/2005 12:32:00 PM Calib : 0001 : ---> SQL Result = user1 0
+15/06/2005 12:32:00 PM Calib : 0001 : ---> SQL Result = reports 26
+15/06/2005 12:32:00 PM Calib : 0001 : ---> SQL Result = reports 26
+15/06/2005 12:32:00 PM Calib : 0001 : ---> SQL Result = ME2_Customiz 1253
+15/06/2005 12:32:00 PM Calib : 0001 : ---> SQL Result = ME2_Customiz 1253
+15/06/2005 12:32:00 PM Calib : 0001 : ---> SQL Result = trace SQL Error
+15/06/2005 12:32:00 PM Calib : 0001 : ---> SQL Result = valfield 83
+15/06/2005 12:32:00 PM Calib : 0001 : ---> SQL Result = valfield 83
+15/06/2005 12:32:00 PM Calib : 0001 : ---> SQL Result = trace SQL Error
+15/06/2005 12:32:00 PM Calib : 0001 : ---> SQL Result = results 63233
+15/06/2005 12:32:00 PM Calib : 0001 : ---> SQL Result = results 63233
+15/06/2005 12:32:00 PM Calib : 0001 : ---> SQL Result = nonworkdays 2
+15/06/2005 12:32:00 PM Calib : 0001 : ---> SQL Result = nonworkdays 2
+15/06/2005 12:32:00 PM Calib : 0001 : ---> SQL Result = valfield 83
+15/06/2005 12:32:00 PM Calib : 0001 : ---> SQL Result = valfield 83
+15/06/2005 12:32:00 PM Calib : 0001 : ---> SQL Result = trace SQL Error
+15/06/2005 12:32:00 PM Calib : 0001 : ---> SQL Result = trace SQL Error
+15/06/2005 12:32:00 PM Calib : 0001 : ---> SQL Result = DeskTopUser 26
+15/06/2005 12:32:00 PM Calib : 0001 : ---> SQL Result = DeskTopUser 26
+15/06/2005 12:32:00 PM Calib : 0001 : ---> SQL Result = customiz 569
+15/06/2005 12:32:00 PM Calib : 0001 : ---> SQL Result = customiz 569
+15/06/2005 12:32:00 PM Calib : 0001 : ---> SQL Result = calcombine 0
+15/06/2005 12:32:00 PM Calib : 0001 : ---> SQL Result = calcombine 0
+15/06/2005 12:32:00 PM Calib : 0001 : ---> SQL Result = user3 0
+15/06/2005 12:32:00 PM Calib : 0001 : ---> SQL Result = user3 0
+15/06/2005 12:32:00 PM Calib : 0001 : ---> SQL Result = reports 26
+15/06/2005 12:32:00 PM Calib : 0001 : ---> SQL Result = reports 26
+15/06/2005 12:32:00 PM Calib : 0001 : ---> SQL Result = trace SQL Error
+15/06/2005 12:32:00 PM Calib : 0001 : ---> SQL Result = customiz 569
+15/06/2005 12:32:00 PM Calib : 0001 : ---> SQL Result = customiz 569
+15/06/2005 12:32:00 PM Calib : 0001 : ---> SQL Result = trace SQL Error
+15/06/2005 12:32:00 PM Calib : 0001 : ---> SQL Result = reports 26
+15/06/2005 12:32:00 PM Calib : 0001 : ---> SQL Result = reports 26
+15/06/2005 12:32:00 PM Calib : 0001 : ---> SQL Result = Location 31
+15/06/2005 12:32:00 PM Calib : 0001 : ---> SQL Result = Location 31
+15/06/2005 12:32:00 PM Calib : 0001 : ---> SQL Result = customiz 569
+15/06/2005 12:32:00 PM Calib : 0001 : ---> SQL Result = customiz 569
+15/06/2005 12:32:00 PM Calib : 0001 : ---> SQL Result = trace SQL Error
+15/06/2005 12:32:01 PM Calib : 0001 : ---> SQL Result = trace SQL Error
+15/06/2005 12:32:01 PM Calib : 0001 : ---> SQL Result = trace SQL Error
+15/06/2005 12:32:01 PM Calib : 0001 : ---> SQL Result = trace SQL Error
+15/06/2005 12:32:01 PM Calib : 0001 : ---> SQL Result = nonworkdays 2
+15/06/2005 12:32:01 PM Calib : 0001 : ---> SQL Result = nonworkdays 2
+15/06/2005 12:32:01 PM Calib : 0001 : ---> SQL Result = DeskTop 1
+15/06/2005 12:32:01 PM Calib : 0001 : ---> SQL Result = DeskTop 1
+15/06/2005 12:32:01 PM Calib : 0001 : ---> SQL Result = ME2_Customiz 1253
+15/06/2005 12:32:01 PM Calib : 0001 : ---> SQL Result = ME2_Customiz 1253
+15/06/2005 12:32:01 PM Calib : 0001 : ---> SQL Result = trace SQL Error
+15/06/2005 12:32:01 PM Calib : 0001 : ---> SQL Result = trace SQL Error
+15/06/2005 12:32:01 PM Calib : 0001 : ---> SQL Result = CalResults 64121
+15/06/2005 12:32:01 PM Calib : 0001 : ---> SQL Result = CalResults 64121
+15/06/2005 12:32:01 PM Calib : 0001 : ---> SQL Result = Location 31
+15/06/2005 12:32:01 PM Calib : 0001 : ---> SQL Result = Location 31
+15/06/2005 12:32:01 PM Calib : 0001 : ---> SQL Result = trace SQL Error
+15/06/2005 12:32:01 PM Calib : 0001 : ---> SQL Result = reports 26
+15/06/2005 12:32:01 PM Calib : 0001 : ---> SQL Result = reports 26
+15/06/2005 12:32:01 PM Calib : 0001 : ---> SQL Result = ME2_Customiz 1253
+15/06/2005 12:32:01 PM Calib : 0001 : ---> SQL Result = ME2_Customiz 1253
+15/06/2005 12:32:01 PM Calib : 0001 : ---> SQL Result = trace SQL Error
+15/06/2005 12:32:01 PM Calib : 0001 : ---> SQL Result = reports 26
+15/06/2005 12:32:01 PM Calib : 0001 : ---> SQL Result = reports 26
+15/06/2005 12:32:01 PM Calib : 0001 : ---> SQL Result = results 63233
+15/06/2005 12:32:01 PM Calib : 0001 : ---> SQL Result = results 63233
+15/06/2005 12:32:01 PM Calib : 0001 : ---> SQL Result = reports 26
+15/06/2005 12:32:01 PM Calib : 0001 : ---> SQL Result = reports 26
+15/06/2005 12:32:01 PM Calib : 0001 : ---> SQL Result = reports 26
+15/06/2005 12:32:01 PM Calib : 0001 : ---> SQL Result = reports 26
+15/06/2005 12:32:01 PM Calib : 0001 : ---> SQL Result = Calibration 630
+15/06/2005 12:32:01 PM Calib : 0001 : ---> SQL Result = Calibration 630
+15/06/2005 12:32:01 PM Calib : 0001 : ---> SQL Result = reports 26
+15/06/2005 12:32:01 PM Calib : 0001 : ---> SQL Result = reports 26
+15/06/2005 12:32:01 PM Calib : 0001 : ---> SQL Result = results 63233
+15/06/2005 12:32:01 PM Calib : 0001 : ---> SQL Result = results 63233
+15/06/2005 12:32:01 PM Calib : 0001 : ---> SQL Result = DeskTopLast 12
+15/06/2005 12:32:01 PM Calib : 0001 : ---> SQL Result = DeskTopLast 12
+15/06/2005 12:32:01 PM Calib : 0001 : ---> SQL Result = holidays 4
+15/06/2005 12:32:01 PM Calib : 0001 : ---> SQL Result = holidays 4
+15/06/2005 12:32:01 PM Calib : 0001 : ---> SQL Result = ME2_Customiz 1253
+15/06/2005 12:32:01 PM Calib : 0001 : ---> SQL Result = ME2_Customiz 1253
+15/06/2005 12:32:01 PM Calib : 0001 : ---> SQL Result = trace SQL Error
+15/06/2005 12:32:01 PM Calib : 0001 : ---> SQL Result = results 63233
+15/06/2005 12:32:01 PM Calib : 0001 : ---> SQL Result = results 63233
+15/06/2005 12:32:01 PM Calib : 0001 : ---> SQL Result = assethistory 0
+15/06/2005 12:32:01 PM Calib : 0001 : ---> SQL Result = assethistory 0
+15/06/2005 12:32:01 PM Calib : 0001 : ---> SQL Result = reports 26
+15/06/2005 12:32:02 PM Calib : 0001 : ---> SQL Result = reports 26
+15/06/2005 12:32:02 PM Calib : 0001 : ---> SQL Result = results_raw 0
+15/06/2005 12:32:02 PM Calib : 0001 : ---> SQL Result = results_raw 0
+15/06/2005 12:32:02 PM Calib : 0001 : ---> SQL Result = Calibration 630
+15/06/2005 12:32:02 PM Calib : 0001 : ---> SQL Result = Calibration 630
+15/06/2005 12:32:02 PM Calib : 0001 : ---> SQL Result = trace SQL Error
+15/06/2005 12:32:02 PM Calib : 0001 : ---> SQL Result = customers 2
+15/06/2005 12:32:02 PM Calib : 0001 : ---> SQL Result = customers 2
+15/06/2005 12:32:02 PM Calib : 0001 : ---> SQL Result = nonworkdays 2
+15/06/2005 12:32:02 PM Calib : 0001 : ---> SQL Result = nonworkdays 2
+15/06/2005 12:32:02 PM Calib : 0001 : ---> SQL Result = reports 26
+15/06/2005 12:32:02 PM Calib : 0001 : ---> SQL Result = reports 26
+15/06/2005 12:32:02 PM Calib : 0001 : ---> SQL Result = userlist 14
+15/06/2005 12:32:02 PM Calib : 0001 : ---> SQL Result = userlist 14
+15/06/2005 12:32:02 PM Calib : 0001 : ---> SQL Result = user2 0
+15/06/2005 12:32:02 PM Calib : 0001 : ---> SQL Result = user2 0
+15/06/2005 12:32:02 PM Calib : 0001 : ---> SQL Result = trace SQL Error
+15/06/2005 12:32:02 PM Calib : 0001 : ---> SQL Result = segregate 2
+15/06/2005 12:32:02 PM Calib : 0001 : ---> SQL Result = segregate 2
+15/06/2005 12:32:02 PM Calib : 0001 : ---> SQL Result = dbconfig 1
+15/06/2005 12:32:02 PM Calib : 0001 : ---> SQL Result = dbconfig 1
+15/06/2005 12:32:02 PM Calib : 0001 : ---> SQL Result = user2 0
+15/06/2005 12:32:02 PM Calib : 0001 : ---> SQL Result = user2 0
+15/06/2005 12:32:02 PM Calib : 0001 : ---> SQL Result = Repair 2
+15/06/2005 12:32:02 PM Calib : 0001 : ---> SQL Result = Repair 2
+15/06/2005 12:32:02 PM Calib : 0001 : ---> SQL Result = userlist 14
+15/06/2005 12:32:02 PM Calib : 0001 : ---> SQL Result = userlist 14
+15/06/2005 12:32:02 PM Calib : 0001 : ---> SQL Result = CalResults 64121
+15/06/2005 12:32:02 PM Calib : 0001 : ---> SQL Result = CalResults 64121
+15/06/2005 12:32:02 PM Calib : 0001 : ---> SQL Result = user2 0
+15/06/2005 12:32:02 PM Calib : 0001 : ---> SQL Result = user2 0
+15/06/2005 12:32:02 PM Calib : 0001 : ---> SQL Result = holidays 4
+15/06/2005 12:32:02 PM Calib : 0001 : ---> SQL Result = holidays 4
+15/06/2005 12:32:02 PM Calib : 0001 : ---> SQL Result = reports 26
+15/06/2005 12:32:02 PM Calib : 0001 : ---> SQL Result = reports 26
+15/06/2005 12:32:02 PM Calib : 0001 : ---> SQL Result = trace SQL Error
+15/06/2005 12:32:02 PM Calib : 0001 : ---> SQL Result = customiz 569
+15/06/2005 12:32:02 PM Calib : 0001 : ---> SQL Result = customiz 569
+15/06/2005 12:32:02 PM Calib : 0001 : ---> SQL Result = userlist 14
+15/06/2005 12:32:02 PM Calib : 0001 : ---> SQL Result = userlist 14
+15/06/2005 12:32:02 PM Calib : 0001 : ---> SQL Result = reports 26
+15/06/2005 12:32:02 PM Calib : 0001 : ---> SQL Result = reports 26
+15/06/2005 12:32:02 PM Calib : 0001 : ---> SQL Result = trace SQL Error
+15/06/2005 12:32:02 PM Calib : 0001 : ---> SQL Result = DeskTop 1
+15/06/2005 12:32:02 PM Calib : 0001 : ---> SQL Result = DeskTop 1
+15/06/2005 12:32:02 PM Calib : 0001 : ---> SQL Result = reports 26
+15/06/2005 12:32:02 PM Calib : 0001 : ---> SQL Result = reports 26
+15/06/2005 12:32:02 PM Calib : 0001 : ---> SQL Result = reports 26
+15/06/2005 12:32:02 PM Calib : 0001 : ---> SQL Result = reports 26
+15/06/2005 12:32:02 PM Calib : 0001 : ---> SQL Result = userlist 14
+15/06/2005 12:32:02 PM Calib : 0001 : ---> SQL Result = userlist 14
+15/06/2005 12:32:02 PM Calib : 0001 : ---> SQL Result = results 63233
+15/06/2005 12:32:02 PM Calib : 0001 : ---> SQL Result = results 63233
+15/06/2005 12:32:02 PM Calib : 0001 : ---> SQL Result = Calibration 630
+15/06/2005 12:32:02 PM Calib : 0001 : ---> SQL Result = Calibration 630
+15/06/2005 12:32:02 PM Calib : 0001 : ---> SQL Result = trace SQL Error
+15/06/2005 12:32:03 PM Calib : 0001 : ---> SQL Result = customers 2
+15/06/2005 12:32:03 PM Calib : 0001 : ---> SQL Result = customers 2
+15/06/2005 12:32:03 PM Calib : 0001 : ---> SQL Result = userlist 14
+15/06/2005 12:32:03 PM Calib : 0001 : ---> SQL Result = userlist 14
+15/06/2005 12:32:03 PM Calib : 0001 : ---> SQL Result = trace SQL Error
+15/06/2005 12:32:03 PM Calib : 0001 : ---> SQL Result = inuse 7
+15/06/2005 12:32:03 PM Calib : 0001 : ---> SQL Result = inuse 7
+15/06/2005 12:32:03 PM Calib : 0001 : ---> SQL Result = trace SQL Error
+15/06/2005 12:32:03 PM Calib : 0001 : ---> SQL Result = license 33
+15/06/2005 12:32:03 PM Calib : 0001 : ---> SQL Result = license 33
+15/06/2005 12:32:03 PM Calib : 0001 : ---> SQL Result = holidays 4
+15/06/2005 12:32:03 PM Calib : 0001 : ---> SQL Result = holidays 4
+15/06/2005 12:32:03 PM Calib : 0001 : ---> SQL Result = reports 26
+15/06/2005 12:32:03 PM Calib : 0001 : ---> SQL Result = reports 26
+15/06/2005 12:32:03 PM Calib : 0001 : ---> SQL Result = nonworkdays 2
+15/06/2005 12:32:03 PM Calib : 0001 : ---> SQL Result = nonworkdays 2
+15/06/2005 12:32:03 PM Calib : 0001 : ---> SQL Result = DeskTop 1
+15/06/2005 12:32:03 PM Calib : 0001 : ---> SQL Result = DeskTop 1
+15/06/2005 12:32:03 PM Calib : 0001 : ---> SQL Result = DeskTopUser 26
+15/06/2005 12:32:03 PM Calib : 0001 : ---> SQL Result = DeskTopUser 26
+15/06/2005 12:32:03 PM Calib : 0001 : ---> SQL Result = Inventory 465
+15/06/2005 12:32:03 PM Calib : 0001 : ---> SQL Result = Inventory 465
+15/06/2005 12:32:03 PM Calib : 0001 : ---> SQL Result = trace SQL Error
+15/06/2005 12:32:03 PM Calib : 0001 : ---> SQL Result = DeskTopUser 26
+15/06/2005 12:32:03 PM Calib : 0001 : ---> SQL Result = DeskTopUser 26
+15/06/2005 12:32:03 PM Calib : 0001 : ---> SQL Result = Standards 1061
+15/06/2005 12:32:03 PM Calib : 0001 : ---> SQL Result = Standards 1061
+15/06/2005 12:32:03 PM Calib : 0001 : ---> SQL Result = trace SQL Error
+15/06/2005 12:32:03 PM Calib : 0001 : ---> SQL Result = reports 26
+15/06/2005 12:32:03 PM Calib : 0001 : ---> SQL Result = reports 26
+15/06/2005 12:32:03 PM Calib : 0001 : ---> SQL Result = reports 26
+15/06/2005 12:32:03 PM Calib : 0001 : ---> SQL Result = reports 26
+15/06/2005 12:32:03 PM Calib : 0001 : ---> SQL Result = trace SQL Error
+15/06/2005 12:32:03 PM Calib : 0001 : ---> SQL Result = Asset_Correlation 0
+15/06/2005 12:32:03 PM Calib : 0001 : ---> SQL Result = Asset_Correlation 0
+15/06/2005 12:32:03 PM Calib : 0001 : ---> SQL Result = reports 26
+15/06/2005 12:32:03 PM Calib : 0001 : ---> SQL Result = reports 26
+15/06/2005 12:32:03 PM Calib : 0001 : ---> SQL Result = valfield 83
+15/06/2005 12:32:03 PM Calib : 0001 : ---> SQL Result = valfield 83
+15/06/2005 12:32:03 PM Calib : 0001 : ---> SQL Result = valfield 83
+15/06/2005 12:32:03 PM Calib : 0001 : ---> SQL Result = valfield 83
+15/06/2005 12:32:03 PM Calib : 0001 : ---> SQL Result = trace SQL Error
+15/06/2005 12:32:03 PM Calib : 0001 : ---> SQL Result = trace SQL Error
+15/06/2005 12:32:03 PM Calib : 0001 : ---> SQL Result = license 33
+15/06/2005 12:32:03 PM Calib : 0001 : ---> SQL Result = license 33
+15/06/2005 12:32:03 PM Calib : 0001 : ---> SQL Result = license 33
+15/06/2005 12:32:03 PM Calib : 0001 : ---> SQL Result = license 33
+15/06/2005 12:32:03 PM Calib : 0001 : ---> SQL Result = trace SQL Error
+15/06/2005 12:32:03 PM Calib : 0001 : ---> SQL Result = trace SQL Error
+15/06/2005 12:32:03 PM Calib : 0001 : ---> SQL Result = WorkOrderDetails 0
+15/06/2005 12:32:03 PM Calib : 0001 : ---> SQL Result = WorkOrderDetails 0
+15/06/2005 12:32:03 PM Calib : 0001 : ---> SQL Result = assethistory 0
+15/06/2005 12:32:03 PM Calib : 0001 : ---> SQL Result = assethistory 0
+15/06/2005 12:32:03 PM Calib : 0001 : ---> SQL Result = mtlog 0
+15/06/2005 12:32:03 PM Calib : 0001 : ---> SQL Result = mtlog 0
+15/06/2005 12:32:03 PM Calib : 0001 : ---> SQL Result = segregate 2
+15/06/2005 12:32:03 PM Calib : 0001 : ---> SQL Result = segregate 2
+15/06/2005 12:32:03 PM Calib : 0001 : ---> SQL Result = trace SQL Error
+15/06/2005 12:32:03 PM Calib : 0001 : ---> SQL Result = reports 26
+15/06/2005 12:32:03 PM Calib : 0001 : ---> SQL Result = reports 26
+15/06/2005 12:32:03 PM Calib : 0001 : ---> SQL Result = Asset_Correlation 0
+15/06/2005 12:32:03 PM Calib : 0001 : ---> SQL Result = Asset_Correlation 0
+15/06/2005 12:32:03 PM Calib : 0001 : ---> SQL Result = reports 26
+15/06/2005 12:32:03 PM Calib : 0001 : ---> SQL Result = reports 26
+15/06/2005 12:32:04 PM Calib : 0001 : ---> SQL Result = user3 0
+15/06/2005 12:32:04 PM Calib : 0001 : ---> SQL Result = user3 0
+15/06/2005 12:32:04 PM Calib : 0001 : ---> SQL Result = reports 26
+15/06/2005 12:32:04 PM Calib : 0001 : ---> SQL Result = reports 26
+15/06/2005 12:32:04 PM Calib : 0001 : ---> SQL Result = trace SQL Error
+15/06/2005 12:32:04 PM Calib : 0001 : ---> SQL Result = trace SQL Error
+15/06/2005 12:32:04 PM Calib : 0001 : ---> SQL Result = Standards 1061
+15/06/2005 12:32:04 PM Calib : 0001 : ---> SQL Result = Standards 1061
+15/06/2005 12:32:04 PM Calib : 0001 : ---> SQL Result = inuse 7
+15/06/2005 12:32:04 PM Calib : 0001 : ---> SQL Result = inuse 7
+15/06/2005 12:32:04 PM Calib : 0001 : ---> SQL Result = customiz 569
+15/06/2005 12:32:04 PM Calib : 0001 : ---> SQL Result = customiz 569
+15/06/2005 12:32:04 PM Calib : 0001 : ---> SQL Result = vallinkdata 0
+15/06/2005 12:32:04 PM Calib : 0001 : ---> SQL Result = vallinkdata 0
+15/06/2005 12:32:04 PM Calib : 0001 : ---> SQL Result = calcombine 0
+15/06/2005 12:32:04 PM Calib : 0001 : ---> SQL Result = calcombine 0
+15/06/2005 12:32:04 PM Calib : 0001 : ---> SQL Result = trace SQL Error
+15/06/2005 12:32:04 PM Calib : 0001 : ---> SQL Result = valfield 83
+15/06/2005 12:32:04 PM Calib : 0001 : ---> SQL Result = valfield 83
+15/06/2005 12:32:04 PM Calib : 0001 : ---> SQL Result = reports 26
+15/06/2005 12:32:04 PM Calib : 0001 : ---> SQL Result = reports 26
+15/06/2005 12:32:04 PM Calib : 0001 : ---> SQL Result = trace SQL Error
+15/06/2005 12:32:04 PM Calib : 0001 : ---> SQL Result = reports 26
+15/06/2005 12:32:04 PM Calib : 0001 : ---> SQL Result = reports 26
+15/06/2005 12:32:04 PM Calib : 0001 : ---> SQL Result = trace SQL Error
+15/06/2005 12:32:04 PM Calib : 0001 : ---> SQL Result = reports 26
+15/06/2005 12:32:04 PM Calib : 0001 : ---> SQL Result = reports 26
+15/06/2005 12:32:04 PM Calib : 0001 : ---> SQL Result = user2 0
+15/06/2005 12:32:04 PM Calib : 0001 : ---> SQL Result = user2 0
+15/06/2005 12:32:04 PM Calib : 0001 : ---> SQL Result = reports 26
+15/06/2005 12:32:04 PM Calib : 0001 : ---> SQL Result = reports 26
+15/06/2005 12:32:04 PM Calib : 0001 : ---> SQL Result = results_raw 0
+15/06/2005 12:32:04 PM Calib : 0001 : ---> SQL Result = results_raw 0
+15/06/2005 12:32:04 PM Calib : 0001 : ---> SQL Result = trace SQL Error
+15/06/2005 12:32:04 PM Calib : 0001 : ---> SQL Result = WorkOrderDetails 0
+15/06/2005 12:32:04 PM Calib : 0001 : ---> SQL Result = WorkOrderDetails 0
+15/06/2005 12:32:04 PM Calib : 0001 : ---> SQL Result = Standards 1061
+15/06/2005 12:32:04 PM Calib : 0001 : ---> SQL Result = Standards 1061
+15/06/2005 12:32:04 PM Calib : 0001 : ---> SQL Result = trace SQL Error
+15/06/2005 12:32:04 PM Calib : 0001 : ---> SQL Result = inuse 7
+15/06/2005 12:32:04 PM Calib : 0001 : ---> SQL Result = inuse 7
+15/06/2005 12:32:04 PM Calib : 0001 : ---> SQL Result = Inventory 465
+15/06/2005 12:32:04 PM Calib : 0001 : ---> SQL Result = Inventory 465
+15/06/2005 12:32:04 PM Calib : 0001 : ---> SQL Result = DeskTopLast 12
+15/06/2005 12:32:04 PM Calib : 0001 : ---> SQL Result = DeskTopLast 12
+15/06/2005 12:32:04 PM Calib : 0001 : ---> SQL Result = reports 26
+15/06/2005 12:32:04 PM Calib : 0001 : ---> SQL Result = reports 26
+15/06/2005 12:32:04 PM Calib : 0001 : ---> SQL Result = DeskTopUser 26
+15/06/2005 12:32:04 PM Calib : 0001 : ---> SQL Result = DeskTopUser 26
+15/06/2005 12:32:04 PM Calib : 0001 : ---> SQL Result = reports 26
+15/06/2005 12:32:04 PM Calib : 0001 : ---> SQL Result = reports 26
+15/06/2005 12:32:04 PM Calib : 0001 : ---> SQL Result = user1 0
+15/06/2005 12:32:04 PM Calib : 0001 : ---> SQL Result = user1 0
+15/06/2005 12:32:04 PM Calib : 0001 : ---> SQL Result = reports 26
+15/06/2005 12:32:04 PM Calib : 0001 : ---> SQL Result = reports 26
+15/06/2005 12:32:04 PM Calib : 0001 : ---> SQL Result = reports 26
+15/06/2005 12:32:04 PM Calib : 0001 : ---> SQL Result = reports 26
+15/06/2005 12:32:04 PM Calib : 0001 : ---> SQL Result = WorkOrders 0
+15/06/2005 12:32:04 PM Calib : 0001 : ---> SQL Result = WorkOrders 0
+15/06/2005 12:32:04 PM Calib : 0001 : ---> SQL Result = assethistory 0
+15/06/2005 12:32:04 PM Calib : 0001 : ---> SQL Result = assethistory 0
+15/06/2005 12:32:04 PM Calib : 0001 : ---> SQL Result = vallink 0
+15/06/2005 12:32:04 PM Calib : 0001 : ---> SQL Result = vallink 0
+15/06/2005 12:32:04 PM Calib : 0001 : ---> SQL Result = Location 31
+15/06/2005 12:32:05 PM Calib : 0001 : ---> SQL Result = Location 31
+15/06/2005 12:32:05 PM Calib : 0001 : ---> SQL Result = ME2_Customiz 1253
+15/06/2005 12:32:05 PM Calib : 0001 : ---> SQL Result = ME2_Customiz 1253
+15/06/2005 12:32:05 PM Calib : 0001 : ---> SQL Result = results_raw 0
+15/06/2005 12:32:05 PM Calib : 0001 : ---> SQL Result = results_raw 0
+15/06/2005 12:32:05 PM Calib : 0001 : ---> SQL Result = reports 26
+15/06/2005 12:32:05 PM Calib : 0001 : ---> SQL Result = reports 26
+15/06/2005 12:32:05 PM Calib : 0001 : ---> SQL Result = Standards 1061
+15/06/2005 12:32:05 PM Calib : 0001 : ---> SQL Result = Standards 1061
+15/06/2005 12:32:05 PM Calib : 0001 : ---> SQL Result = reports 26
+15/06/2005 12:32:05 PM Calib : 0001 : ---> SQL Result = reports 26
+15/06/2005 12:32:05 PM Calib : 0001 : ---> SQL Result = trace SQL Error
+15/06/2005 12:32:05 PM Calib : 0001 : ---> SQL Result = DeskTopUser 26
+15/06/2005 12:32:05 PM Calib : 0001 : ---> SQL Result = DeskTopUser 26
+15/06/2005 12:32:05 PM Calib : 0001 : ---> SQL Result = trace SQL Error
+15/06/2005 12:32:05 PM Calib : 0001 : ---> SQL Result = customers 2
+15/06/2005 12:32:05 PM Calib : 0001 : ---> SQL Result = customers 2
+15/06/2005 12:32:05 PM Calib : 0001 : ---> SQL Result = reports 26
+15/06/2005 12:32:05 PM Calib : 0001 : ---> SQL Result = reports 26
+15/06/2005 12:32:05 PM Calib : 0001 : ---> SQL Result = userlist 14
+15/06/2005 12:32:05 PM Calib : 0001 : ---> SQL Result = userlist 14
+15/06/2005 12:32:05 PM Calib : 0001 : ---> SQL Result = Calibration 630
+15/06/2005 12:32:05 PM Calib : 0001 : ---> SQL Result = Calibration 630
+15/06/2005 12:32:05 PM Calib : 0001 : ---> SQL Result = reports 26
+15/06/2005 12:32:05 PM Calib : 0001 : ---> SQL Result = reports 26
+15/06/2005 12:32:05 PM Calib : 0001 : ---> SQL Result = reports 26
+15/06/2005 12:32:05 PM Calib : 0001 : ---> SQL Result = reports 26
+15/06/2005 12:32:05 PM Calib : 0001 : ---> SQL Result = user1 0
+15/06/2005 12:32:05 PM Calib : 0001 : ---> SQL Result = user1 0
+15/06/2005 12:32:05 PM Calib : 0001 : ---> SQL Result = trace SQL Error
+15/06/2005 12:32:05 PM Calib : 0001 : ---> SQL Result = vallink 0
+15/06/2005 12:32:05 PM Calib : 0001 : ---> SQL Result = vallink 0
+15/06/2005 12:32:05 PM Calib : 0001 : ---> SQL Result = reports 26
+15/06/2005 12:32:05 PM Calib : 0001 : ---> SQL Result = reports 26
+15/06/2005 12:32:05 PM Calib : 0001 : ---> SQL Result = trace SQL Error
+15/06/2005 12:32:05 PM Calib : 0001 : ---> SQL Result = mtlog 0
+15/06/2005 12:32:05 PM Calib : 0001 : ---> SQL Result = mtlog 0
+15/06/2005 12:32:05 PM Calib : 0001 : ---> SQL Result = Calibration 630
+15/06/2005 12:32:05 PM Calib : 0001 : ---> SQL Result = Calibration 630
+15/06/2005 12:32:05 PM Calib : 0001 : ---> SQL Result = Standards 1061
+15/06/2005 12:32:05 PM Calib : 0001 : ---> SQL Result = Standards 1061
+15/06/2005 12:32:05 PM Calib : 0001 : ---> SQL Result = DeskTopLast 12
+15/06/2005 12:32:05 PM Calib : 0001 : ---> SQL Result = DeskTopLast 12
+15/06/2005 12:32:05 PM Calib : 0001 : ---> SQL Result = trace SQL Error
+15/06/2005 12:32:05 PM Calib : 0001 : ---> SQL Result = vallink 0
+15/06/2005 12:32:05 PM Calib : 0001 : ---> SQL Result = vallink 0
+15/06/2005 12:32:05 PM Calib : 0001 : ---> SQL Result = reports 26
+15/06/2005 12:32:05 PM Calib : 0001 : ---> SQL Result = reports 26
+15/06/2005 12:32:05 PM Calib : 0001 : ---> SQL Result = trace SQL Error
+15/06/2005 12:32:05 PM Calib : 0001 : ---> SQL Result = Repair 2
+15/06/2005 12:32:05 PM Calib : 0001 : ---> SQL Result = Repair 2
+15/06/2005 12:32:05 PM Calib : 0001 : ---> SQL Result = trace SQL Error
+15/06/2005 12:32:05 PM Calib : 0001 : ---> SQL Result = trace SQL Error
+15/06/2005 12:32:05 PM Calib : 0001 : ---> SQL Result = reports 26
+15/06/2005 12:32:05 PM Calib : 0001 : ---> SQL Result = reports 26
+15/06/2005 12:32:05 PM Calib : 0001 : ---> SQL Result = Repair 2
+15/06/2005 12:32:05 PM Calib : 0001 : ---> SQL Result = Repair 2
+15/06/2005 12:32:05 PM Calib : 0001 : ---> SQL Result = trace SQL Error
+15/06/2005 12:32:05 PM Calib : 0001 : ---> SQL Result = dbconfig 1
+15/06/2005 12:32:05 PM Calib : 0001 : ---> SQL Result = dbconfig 1
+15/06/2005 12:32:05 PM Calib : 0001 : ---> SQL Result = userlist 14
+15/06/2005 12:32:05 PM Calib : 0001 : ---> SQL Result = userlist 14
+15/06/2005 12:32:05 PM Calib : 0001 : ---> SQL Result = Asset_Correlation 0
+15/06/2005 12:32:05 PM Calib : 0001 : ---> SQL Result = Asset_Correlation 0
+15/06/2005 12:32:06 PM Calib : 0001 : ---> SQL Result = trace SQL Error
+15/06/2005 12:32:06 PM Calib : 0001 : ---> SQL Result = Inventory 465
+15/06/2005 12:32:06 PM Calib : 0001 : ---> SQL Result = Inventory 465
+15/06/2005 12:32:06 PM Calib : 0001 : ---> SQL Result = Inventory 465
+15/06/2005 12:32:06 PM Calib : 0001 : ---> SQL Result = Inventory 465
+15/06/2005 12:32:06 PM Calib : 0001 : ---> SQL Result = trace SQL Error
+15/06/2005 12:32:06 PM Calib : 0001 : ---> SQL Result = trace SQL Error
+15/06/2005 12:32:06 PM Calib : 0001 : ---> SQL Result = reports 26
+15/06/2005 12:32:06 PM Calib : 0001 : ---> SQL Result = reports 26
+15/06/2005 12:32:06 PM Calib : 0001 : ---> SQL Result = assethistory 0
+15/06/2005 12:32:06 PM Calib : 0001 : ---> SQL Result = assethistory 0
+15/06/2005 12:32:06 PM Calib : 0001 : ---> SQL Result = DeskTopUser 26
+15/06/2005 12:32:06 PM Calib : 0001 : ---> SQL Result = DeskTopUser 26
+15/06/2005 12:32:06 PM Calib : 0001 : ---> SQL Result = customers 2
+15/06/2005 12:32:06 PM Calib : 0001 : ---> SQL Result = customers 2
+15/06/2005 12:32:06 PM Calib : 0001 : ---> SQL Result = WorkOrders 0
+15/06/2005 12:32:06 PM Calib : 0001 : ---> SQL Result = WorkOrders 0
+15/06/2005 12:32:06 PM Calib : 0001 : ---> SQL Result = trace SQL Error
+15/06/2005 12:32:06 PM Calib : 0001 : ---> SQL Result = reports 26
+15/06/2005 12:32:06 PM Calib : 0001 : ---> SQL Result = reports 26
+15/06/2005 12:32:06 PM Calib : 0001 : ---> SQL Result = holidays 4
+15/06/2005 12:32:06 PM Calib : 0001 : ---> SQL Result = holidays 4
+15/06/2005 12:32:06 PM Calib : 0001 : ---> SQL Result = Calibration 630
+15/06/2005 12:32:06 PM Calib : 0001 : ---> SQL Result = Calibration 630
+15/06/2005 12:32:06 PM Facto : 0001 : >>--- Kill all Worker Threads ---<<
+15/06/2005 12:32:06 PM Calib : 0001 : ---> SQL Result = reports 26
+15/06/2005 12:32:06 PM Calib : 0001 : >-- received Terminate Signal --<
+15/06/2005 12:32:06 PM Calib : 0001 : ---> SQL Result = reports 26
+15/06/2005 12:32:06 PM Calib : 0001 : >-- received Finish Signal --<
+15/06/2005 12:32:06 PM Calib : 0001 : ---> Stopped work
+15/06/2005 12:32:13 PM Facto : 0001 : >>>-- Received kill all threads signal --<<<
+15/06/2005 12:32:13 PM Facto : 0001 : >>--- Kill all Worker Threads ---<<
+15/06/2005 12:32:13 PM Facto : 0001 : >>-- Woke up --<<
+15/06/2005 12:32:13 PM Facto : 0001 : >-- received Finish Signal --<
+15/06/2005 12:32:13 PM Facto : 0001 : >>-- Factory Stopped Production --<<
+15/06/2005 12:32:13 PM Facto : 0001 : ---> Stopped work

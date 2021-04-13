@@ -1,0 +1,22 @@
+Functions called:
+ fflush (4 times)
+ free (7 times)
+ delete[] (3 times)
+ strcpy (3 times)
+ new[] (3 times)
+ lstrcpyA (1 times)
+ vsnprintf (2 times)
+ memset (10 times)
+ calloc (1 times)
+ strlen (75 times)
+ realloc (1 times)
+ strdup (1 times)
+ malloc (4 times)
+ memcpy (23 times)
+Resource types used:
+ object array (3 allocs, 3 max)
+ memory block (7 allocs, 7 max)
+Modules used:
+ 00400000 06/15/2005 21:51:22
+ F:\develop\bcb6\dbLOADER\Executable\dbloader.exe
+==========================================
