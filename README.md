@@ -4,7 +4,7 @@ Example of C++ Threading via ODBC for interoperability of databases on the same 
 
 ## Motivation
 
-The group I worked for decided to purchase a new server for a Solid Server RDBMS, I suggested we use the server for a Sybase Anywhere Server because:
+The group I worked for decided to purchase a new server for a Solid Server RDBMS, I suggested we use the server for a Sybase Anywhere Server as well because:
 * there are only 70 people who use this across the network
 * we would maintain control over the server
 
